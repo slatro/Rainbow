@@ -102,8 +102,4 @@ screen -S Rainbow
 
 > `nano ./identity/private_key.pem` bu dosyayı da saklayalım.
 
-> İşlemler bu kadar. Incentivize indexer çalışıyor.
-
-
-
-
+> İşlemler bu kadar. Incentivize indexer çalışıyor..
